@@ -10,6 +10,15 @@
 
 ---
 
+### 📄 Publications
+
+* **[Evaluating the Potential of LLMs for Better Short Answer Scoring](https://www.scitepress.org/PublicationsDetail.aspx?ID=Fjcad3Hf7jg%3d)**
+    * Aleksandar Todorov, Elisa Klunder, Julia Eva Belloni
+    * *In Proceedings of the 17th International Conference on Computer Supported Education - Volume 2: CSEDU; ISBN 978-989-758-746-7; ISSN 2184-5026, SciTePress, pages 108-119. DOI: 10.5220/0013291700003932*
+
+---
+
+
 ### 🛠️ My Tech Stack & Skills
 
 **Programming Languages:**
@@ -64,32 +73,6 @@
 * Finishing my Bachelor's studies and beginning a Master's in Artificial Intelligence next year.
 
 ---
-
-### 📄 Publications
-
-* **[Evaluating the Potential of LLMs for Better Short Answer Scoring](https://www.scitepress.org/PublicationsDetail.aspx?ID=Fjcad3Hf7jg%3d)**
-    * Aleksandar Todorov, Elisa Klunder, Julia Eva Belloni
-    * *In Proceedings of the 17th International Conference on Computer Supported Education - Volume 2: CSEDU; ISBN 978-989-758-746-7; ISSN 2184-5026, SciTePress, pages 108-119. DOI: 10.5220/0013291700003932*
-
----
-
-### ✨ GitHub Stats & Activity
-
-<p align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=atodorov284&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/> 
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atodorov284&layout=compact&langs_count=8&theme=radical"/>
-</p>
-
----
-
-### 📫 Get In Touch
-
-* **GitHub:** [atodorov284](https://github.com/atodorov284)
-* **Email:** [atodorov.rs@gmail.com](mailto:atodorov.rs@gmail.com)
-* **LinkedIn:** [Aleksandar Todorov](https://www.linkedin.com/in/aleksandar-todorov-26b756213/)
-
----
-
 
 
 <!--
