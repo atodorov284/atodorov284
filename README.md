@@ -1,12 +1,10 @@
-# Hi there, I'm Aleksandar Todorov! 👋
-
 [![My GitHub Profile](https://img.shields.io/badge/GitHub-Profile-blue?logo=github)](https://github.com/atodorov284) [![My Email](https://img.shields.io/badge/Email-atodorov.rs@gmail.com-red?logo=gmail)](mailto:atodorov.rs@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/aleksandar-todorov-26b756213/)
 
 🎓 I'm a Bachelor's student pursuing a double degree in **Artificial Intelligence** and **Applied Mathematics** at the **University of Groningen**, specializing in Machine Learning and Data Science.
 
 💡 My core interests lie at the intersection of mathematics and computation, particularly in **Optimization, Probability Theory, Machine Learning, Reinforcement Learning, Data Science, Computer Vision, and NLP**.
 
-👨‍💻 Currently working as an **AI Engineer** at **DataNorth** and serving as a **Teaching Assistant** at the University of Groningen for multiple courses: Reinforcement Learning, Data Science, Object-Oriented Programming (head TA), Fundamentals of AI, Signals and Systems, Introduction to Logic, Advanced Logic, General Linguistics.
+👨‍💻 Currently working as an **AI Engineer** at **DataNorth** and as a **Teaching Assistant** at the University of Groningen for multiple courses: Reinforcement Learning, Data Science, Object-Oriented Programming (head TA), Fundamentals of AI, Signals and Systems, Introduction to Logic, Advanced Logic, General Linguistics.
 
 ---
 
@@ -61,16 +59,6 @@
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 ![Github Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-
----
-
-### 🔭 Current Focus
-
-* Deepening my understanding of advanced **Reinforcement Learning** techniques and their real-world applications.
-* Exploring **LLM Fine-tuning** and applications in NLP, inspired by my recent publication.
-* Contributing to real-world AI solutions at **DataNorth**.
-* Mentoring students at the University of Groningen.
-* Finishing my Bachelor's studies and beginning a Master's in Artificial Intelligence next year.
 
 ---
 
