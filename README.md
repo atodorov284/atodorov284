@@ -4,7 +4,7 @@
 
 💡 My core interests lie at the intersection of mathematics and computation, particularly in **Optimization, Probability Theory, Machine Learning, Reinforcement Learning, Data Science, Computer Vision, and NLP**.
 
-👨‍💻 Currently working as an **AI Engineer** at **DataNorth** and as a **Teaching Assistant** at the University of Groningen for multiple courses: Reinforcement Learning, Data Science, Object-Oriented Programming (head TA), Fundamentals of AI, Signals and Systems, Introduction to Logic, Advanced Logic, General Linguistics.
+👨‍💻 Currently working as an **AI Engineer** at **DataNorth** and as a **Teaching Assistant** at the University of Groningen for multiple courses: Object-Oriented Programming (head TA), AI Engineering, Reinforcement Learning, Data Science, Fundamentals of AI, Signals and Systems, Introduction to Logic, Advanced Logic, General Linguistics.
 
 ---
 
